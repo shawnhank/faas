@@ -2,7 +2,7 @@
 github.com/beorn7/perks/quantile
 # github.com/cespare/xxhash/v2 v2.1.1
 github.com/cespare/xxhash/v2
-# github.com/docker/distribution v2.7.1+incompatible
+# github.com/docker/distribution v2.8.2+incompatible
 ## explicit
 github.com/docker/distribution/uuid
 # github.com/gogo/protobuf v1.3.2
@@ -20,10 +20,6 @@ github.com/golang/protobuf/ptypes/timestamp
 github.com/gorilla/mux
 # github.com/matttproud/golang_protobuf_extensions v1.0.1
 github.com/matttproud/golang_protobuf_extensions/pbutil
-# github.com/nats-io/nats-server/v2 v2.3.2
-## explicit
-# github.com/nats-io/nats-streaming-server v0.22.0
-## explicit
 # github.com/nats-io/nats.go v1.11.1-0.20210623165838-4b75fc59ae30
 github.com/nats-io/nats.go
 github.com/nats-io/nats.go/encoders/builtin
